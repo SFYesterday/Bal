@@ -1,0 +1,21 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\Soft\Keil5\core\ARM\ARMCC\Bin'
+Build target 'BalancedRobot'
+compiling Chassis_task.c...
+../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h(68): warning:  #47-D: incompatible redefinition of macro "__FPU_PRESENT" 
+  #define __FPU_PRESENT             1U       /*!< FPU present                                   */
+..\Application\Chassis_task\Chassis_task.c(87): warning:  #188-D: enumerated type mixed with another type
+                  .Improve = PID_Trapezoid_Intergral | PID_Integral_Limit | PID_Derivative_On_Measurement,
+..\Application\Chassis_task\Chassis_task.c(96): warning:  #188-D: enumerated type mixed with another type
+                  .Improve = PID_Trapezoid_Intergral | PID_Integral_Limit | PID_Derivative_On_Measurement,
+..\Application\Chassis_task\Chassis_task.c(105): warning:  #188-D: enumerated type mixed with another type
+                  .Improve = PID_Trapezoid_Intergral | PID_Integral_Limit | PID_Derivative_On_Measurement,
+..\Application\Chassis_task\Chassis_task.c: 4 warnings, 0 errors
+compiling freertos.c...
+../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h(68): warning:  #47-D: incompatible redefinition of macro "__FPU_PRESENT" 
+  #define __FPU_PRESENT             1U       /*!< FPU present                                   */
+../Src/freertos.c: 1 warning, 0 errors
+linking...
+Program Size: Code=73372 RO-data=2948 RW-data=836 ZI-data=52196  
+FromELF: creating hex file...
+"BalancedRobot\BalancedRobot.axf" - 0 Error(s), 5 Warning(s).
+Build Time Elapsed:  00:00:03

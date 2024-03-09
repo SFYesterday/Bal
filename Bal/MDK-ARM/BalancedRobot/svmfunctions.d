@@ -1,0 +1,15 @@
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Source\SVMFunctions\SVMFunctions.c
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Source\SVMFunctions\arm_svm_linear_init_f32.c
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/svm_functions.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\arm_math_types.h
+balancedrobot\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\stdint.h
+balancedrobot\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\string.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\math.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\float.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\limits.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\arm_math_memory.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/none.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/utils.h
+balancedrobot\svmfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/svm_defines.h

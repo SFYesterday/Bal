@@ -1,0 +1,16 @@
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Source\FastMathFunctions\FastMathFunctions.c
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Source\FastMathFunctions\arm_cos_f32.c
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/fast_math_functions.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\arm_math_types.h
+balancedrobot\fastmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\stdint.h
+balancedrobot\fastmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\string.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\math.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\float.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\core\ARM\ARMCC\Bin\..\include\limits.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\arm_math_memory.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/none.h
+balancedrobot\fastmathfunctions.o: D:\Soft\Keil5\pack\ARM\CMSIS\5.8.0\CMSIS\DSP\Include\dsp/utils.h
+balancedrobot\fastmathfunctions.o: ..\Modules\Algorithm\include\arm_common_tables.h
+balancedrobot\fastmathfunctions.o: ..\Modules\Algorithm\include\arm_math.h

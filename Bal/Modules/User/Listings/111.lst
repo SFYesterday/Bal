@@ -1,0 +1,26 @@
+C51 COMPILER V9.55   111                                                                   12/12/2023 19:51:42 PAGE 1   
+
+
+C51 COMPILER V9.55, COMPILATION OF MODULE 111
+OBJECT MODULE PLACED IN .\Objects\111.obj
+COMPILER INVOKED BY: D:\Soft\Keil5\C51\C51\BIN\C51.EXE 111.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listing
+                    -s\111.lst) TABS(2) OBJECT(.\Objects\111.obj)
+
+line level    source
+
+   1          #include <reg52.h>
+   2          sbit LED1 = P1^0;
+   3          sbit LED2 = P1^1;
+   4          sbit LED3 = P1^2;
+   5          sbit LED4 = P1^3;
+   6          sbit LED5 = P1^4;
+   7          sbit LED6 = P1^5;
+   8          sbit LED7 = P1^6;
+   9          sbit LED8 = P1^7;
+  10          
+  11          // ?? LED ??
+  12          sbit LEDs[] = {LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8};
+*** ERROR C141 IN LINE 12 OF 111.c: syntax error near '[', expected '='
+*** ERROR C141 IN LINE 12 OF 111.c: syntax error near '}', expected ';'
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  2 ERROR(S)

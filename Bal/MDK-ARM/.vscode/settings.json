@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.md": "a51",
+        "mf9025.h": "c",
+        "bmi088reg.h": "c",
+        "bmi088middleware.h": "c",
+        "struct_typedef.h": "c",
+        "chassis_task.h": "c",
+        "control.h": "c",
+        "remote_control.h": "c",
+        "xutility": "c",
+        "user.h": "c",
+        "gimbal_task.h": "c",
+        "bsp_can.h": "c",
+        "3508.h": "c",
+        "djmotor.h": "c",
+        "main.h": "c"
+    }
+}
